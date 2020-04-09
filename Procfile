@@ -1,0 +1,1 @@
+web: gunicorn runex_project.wsgi
